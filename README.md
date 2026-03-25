@@ -1,4 +1,5 @@
 # 🎌 Anime Intelligence Dashboard
+🔗 Live Demo: https://anime-ai-7nfw.onrender.com/
 
 An **AI-powered anime recommendation system** that analyzes user-input genres to
 **predict anime quality** and **recommend similar anime** using Machine Learning.
